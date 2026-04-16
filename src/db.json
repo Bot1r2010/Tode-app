@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "id": "1", "title": "React o'rganish", "completed": false },
+    { "id": "2", "title": "Tailwind o'rganish", "completed": true }
+  ]
+}
